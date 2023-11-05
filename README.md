@@ -3,7 +3,8 @@
 - 🌱 I’m growing my knowledgements...
 - 💞️ I’m looking to collaborate on projects ...
 - 📫 How to reach me adrianoasantunes@gmail.com...
-- 👾self-learning now: Java/Flutter/Delphi;<br>
+- 👾self-learning now: Java/Flutter/Delphi;
+- 👾working in a job with Delphi Developer now;<br>
 <br>
 👨🏽‍🎓 Ciência de Dados e Big Data - PUCMG (Pós-Graduação - Cursando) <br>
 👨🏽‍🎓 Desenvolvimento Plataforma Web - Claretiano (Pós-Graduação - Completa) <br>
