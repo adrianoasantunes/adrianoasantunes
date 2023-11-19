@@ -5,7 +5,7 @@
 - 👾 Working as a Delphi Developer now;<br>
 <br>
 - My degrees:
-👨🏽‍🎓 Sistemas de Informação - UNIFRAN 
+👨🏽‍🎓 Sistemas de Informação - UNIFRAN <br>
 👨🏽‍🎓 Ciência de Dados e Big Data - PUCMG <br>
 👨🏽‍🎓 Desenvolvimento Plataforma Web - Claretiano <br>
 <br>
